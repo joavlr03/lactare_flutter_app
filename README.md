@@ -214,8 +214,6 @@ Home → Modo Gestão → Dashboard Administrativo (KPIs)
 
 <img width="497" height="996" alt="Captura de tela 2026-09-03 234913" src="https://github.com/user-attachments/assets/4b020f85-9885-44cb-95aa-229602cadccf" />
 
-<img width="496" height="996" alt="Captura de tela 2026-09-03 234917" src="https://github.com/user-attachments/assets/4aa61056-79ed-417d-8ee8-46f1ab21c899" />
-
 <img width="504" height="993" alt="Captura de tela 2026-09-03 234929" src="https://github.com/user-attachments/assets/49c90c44-bdba-41fd-98df-e88d1b6d7b3d" />
 
 <img width="500" height="999" alt="Captura de tela 2026-09-03 234935" src="https://github.com/user-attachments/assets/cbeb0b38-7b85-4d38-b478-08e4e5ef10db" />
