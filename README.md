@@ -10,7 +10,16 @@ Aplicativo Flutter multiplataforma que conecta doadoras de leite materno a um ba
 
 ---
 
+## Equipe - Nutrilink
+
+- Giovanni Sguizzardi Conde - RM565123
+- Nicole Alves Nogueira - RM555182
+- Lucas Lima Franco - RM550255
+- Bruno César Toledo D Oliveira - RM554878
+- João Victor Oliveira Avellar - RM550283
+
 ## 📖 Descrição
+### Projeto Lactare
 
 O **Lactare Eurofarma** é um protótipo de aplicativo voltado para doadoras de leite materno. Ele resolve um problema comum em campanhas de doação de leite: a fricção entre a intenção de doar e a execução do processo (elegibilidade, logística de coleta e retorno de impacto para a doadora).
 
